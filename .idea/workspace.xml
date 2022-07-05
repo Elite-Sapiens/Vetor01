@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17535f80-eacf-4744-a7a2-039200d56596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/model/Aluguel.java" afterDir="false" />
+    <list default="true" id="17535f80-eacf-4744-a7a2-039200d56596" name="Changes" comment="subindo2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/elitesapiens/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/Main.java" afterDir="false" />
     </list>
@@ -99,8 +98,16 @@
       <option name="presentableId" value="Default" />
       <updated>1657041888931</updated>
       <workItem from="1657041891819" duration="318000" />
-      <workItem from="1657042432241" duration="2573000" />
+      <workItem from="1657042432241" duration="3626000" />
     </task>
+    <task id="LOCAL-00001" summary="subindo2">
+      <created>1657045285790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657045285790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +135,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="subindo" />
+    <MESSAGE value="subindo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo2" />
   </component>
 </project>

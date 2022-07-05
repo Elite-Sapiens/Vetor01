@@ -14,13 +14,15 @@ public class Main {
 
         Aluguel[] vectors = new Aluguel[10];
 
-        for (int i = 1; i <=n; i++) {
+        for (int i = 1; i <= n; i++) {
             System.out.print("Rent #" + i + ": ");
+            scanner.nextLine();
             System.out.print("\nNome: ");
-            String nome = scanner.nextLine();
-            System.out.print("\nEmail: ");
+            String nome = scanner.next();
+            scanner.nextLine();
+            System.out.print("Email: ");
             String email = scanner.nextLine();
-            System.out.print("\nRoom: ");
+            System.out.print("Room: ");
             int rm = scanner.nextInt();
             System.out.print("\n");
 
@@ -28,6 +30,11 @@ public class Main {
 
         }
 
+        for (int i = 0; i < vectors.length; i++) {
+            if (vectors[i] != null) {
+                System.out.println(i + ": " + vectors[i].getName() + "," + vectors[i].getEmail());
+            }
+        }
 
 
         scanner.close();
