@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17535f80-eacf-4744-a7a2-039200d56596" name="Changes" comment="subindo2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitesapiens/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="17535f80-eacf-4744-a7a2-039200d56596" name="Changes" comment="ex1Completo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657041888931</updated>
       <workItem from="1657041891819" duration="318000" />
-      <workItem from="1657042432241" duration="3626000" />
+      <workItem from="1657042432241" duration="3939000" />
     </task>
     <task id="LOCAL-00001" summary="subindo2">
       <created>1657045285790</created>
@@ -107,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657045285790</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ex1Completo">
+      <created>1657046356864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657046356864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subindo" />
     <MESSAGE value="subindo2" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo2" />
+    <MESSAGE value="ex1Completo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex1Completo" />
   </component>
 </project>
